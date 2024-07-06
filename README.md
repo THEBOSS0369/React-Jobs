@@ -23,4 +23,4 @@ The React Jobs Website is a full-stack application built using React for both th
 
    ```bash
    git clone https://github.com/THEBOSS0369/React-Jobs.git
-   cd your-repository
+   cd React-Jobs
