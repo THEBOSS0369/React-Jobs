@@ -17,6 +17,22 @@ The React Jobs Website is a full-stack application built using React for both th
 - **Backend:** React
 - **Database:** JSON file
 
+## Contributing
+
+Contributions are welcome! Please fork this repository and submit a pull request for any enhancements.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+## Contact
+
+For any questions or suggestions, please contact:
+
+- **EMAIL**: anujkumsharma9876@gmail.com
+
+
 ## Installation
 
 1. **Clone the repository:**
