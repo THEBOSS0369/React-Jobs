@@ -1,8 +1,14 @@
-# React + Vite
+#React Jobs Website
+##Description
+The React Jobs Website is a full-stack application built using React for both the frontend and backend. It utilizes a JSON file as the database to manage job listings. This website allows users to display job data, add new job postings, edit existing job postings, and delete job postings.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##Features
+Display Jobs: View all job listings with detailed information.
+Add Job: Add new job postings with relevant details.
+Edit Job: Modify details of existing job postings.
+Delete Job: Remove job postings from the database.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##Technologies Used
+Frontend: React
+Backend: React
+Database: JSON file
