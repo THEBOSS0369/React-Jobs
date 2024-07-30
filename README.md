@@ -1,4 +1,6 @@
 # React Jobs Website
+![Homepage](https://github.com/user-attachments/assets/84309932-6670-4535-b14d-63f964214be8)
+![Homepage 2](https://github.com/user-attachments/assets/75bb7fd2-c79e-4172-a463-f9fce539dac0)
 
 ## Description
 
